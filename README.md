@@ -1,6 +1,6 @@
 <div align="center">
 
-## V-PETL:  A Unified View of Visual PETL Techniques.
+## V-PETL:  A Unified View of Visual PETL Techniques
 
 ![teaser](figs/petls_patt.png)
 </div>
