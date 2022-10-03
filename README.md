@@ -5,14 +5,16 @@
 ![teaser](figs/petls_patt.png)
 </div>
 
-This is a PyTorch implementation of the paper [Towards a Unified View on Visual Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2205.13535).
+This is a PyTorch implementation of the paper [Towards a Unified View on Visual Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2205.13535)
 
 [Bruce X.B. Yu](https://www.shoufachen.com/)<sup>1</sup>,
 [Jianlong Chang](https://scholar.google.com/citations?user=RDwnNsQAAAAJ)<sup>2</sup>,
 [Lingbo Liu](https://lingboliu.com/)<sup>1</sup>,
 [Qi Tian](https://scholar.google.com/citations?user=61b6eYkAAAAJ)<sup>2</sup>,
 [Chang Wen Chen](https://chenlab-homepage.netlify.app/)<sup>1</sup>\*
+
 <sup>1</sup>The Hong Kong Polytechnic University, <sup>2</sup>Huawei Inc.
+
 \*denotes the corresponding author
 
 ### Usage
