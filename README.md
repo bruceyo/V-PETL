@@ -7,7 +7,7 @@
 
 This is a PyTorch implementation of the paper [Towards a Unified View on Visual Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2210.00788)
 
-[Bruce X.B. Yu](https://www.shoufachen.com/)<sup>1</sup>,
+[Bruce X.B. Yu](https://bruceyo.github.io/)<sup>1</sup>,
 [Jianlong Chang](https://scholar.google.com/citations?user=RDwnNsQAAAAJ)<sup>2</sup>,
 [Lingbo Liu](https://lingboliu.com/)<sup>1</sup>,
 [Qi Tian](https://scholar.google.com/citations?user=61b6eYkAAAAJ)<sup>2</sup>,
