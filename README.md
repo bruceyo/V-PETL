@@ -44,7 +44,7 @@ CUDA_VISIBLE_DEVICES=3 torchrun --standalone --nnodes=1 \
     --finetune pre_trained/swin_base_patch244_window877_kinetics400_22k.pth \
     --output_dir output \
     --tuned_backbone_layer_fc True \
-    --batch_size 8 --epochs 70 --blr 0.1 --weight_decay 0.0 --dist_eval \
+    --batch_size 16 --epochs 70 --blr 0.1 --weight_decay 0.0 --dist_eval \
     --data_path /media/bruce/ssd1/data/hmdb51 --data_set HMDB51 \
     --ffn_adapt \
     --att_prefix \
