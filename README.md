@@ -5,7 +5,7 @@
 ![teaser](figs/petls_patt.png)
 </div>
 
-This is a PyTorch implementation of the paper [Towards a Unified View on Visual Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2205.13535)
+This is a PyTorch implementation of the paper [Towards a Unified View on Visual Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2210.00788)
 
 [Bruce X.B. Yu](https://www.shoufachen.com/)<sup>1</sup>,
 [Jianlong Chang](https://scholar.google.com/citations?user=RDwnNsQAAAAJ)<sup>2</sup>,
@@ -64,7 +64,7 @@ The project is based on [PETL](https://github.com/jxhe/unify-parameter-efficient
 @article{yu2022vpetl,
       title={Towards a Unified View on Visual Parameter-Efficient Transfer Learning},
       author={Yu, Bruce X.B. and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen},
-      journal={arXiv preprint arXiv:2205.13535},
+      journal={arXiv preprint arXiv:2210.00788},
       year={2022}
 }
 ```
