@@ -11,7 +11,7 @@ This is a PyTorch implementation of the paper [Towards a Unified View on Visual 
 [Jianlong Chang](https://scholar.google.com/citations?user=RDwnNsQAAAAJ)<sup>2</sup>,
 [Lingbo Liu](https://lingboliu.com/)<sup>1</sup>,
 [Qi Tian](https://scholar.google.com/citations?user=61b6eYkAAAAJ)<sup>2</sup>,
-[Chang Wen Chen](https://chenlab-homepage.netlify.app/)<sup>1</sup>\*
+[Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/)<sup>1</sup>\*
 
 <sup>1</sup>The Hong Kong Polytechnic University, <sup>2</sup>Huawei Inc.
 
